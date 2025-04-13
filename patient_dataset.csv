@@ -1,0 +1,202 @@
+Name,Date,Age,Gender,Disease,Symptom,Blood Type,Smoking,Alcohol,Diet,Activity Level,Disability
+Person_51,2024/11/27,53,Female,Diabeties,"Blurred Vision, Frequent Urination, Increased Thirst",A-,Non-Smoker,Occasionally,Vegan,Active,No disability
+Person_52,2024/07/06,51,Male,Migraine,"Nausea, Severe Headache, Light Sensitivity",B-,Non-Smoker,Occasionally,Other,Sedentary,"Hearing Impairment, Other"
+Person_53,2024/03/05,26,Female,Fever,"Body Aches, Fever, Sweating",B+,Occasional,Frequently,Non-Vegetarian,Highly Active,"Cognitive Disability, Mental Health Condition"
+Person_54,2024/10/31,28,Female,Migraine,"Nausea, Light Sensitivity, Severe Headache",A-,Occasional,Never,Non-Vegetarian,Highly Active,"Hearing Impairment, Other"
+Person_55,2024/03/03,16,Female,Malaria,"Fever, Chills, Headache",A-,Occasional,Occasionally,Vegan,Sedentary,Hearing Impairment
+Person_56,2024/10/05,60,Female,Brain tumor,"Vision Problems, Seizures, Headache",AB+,Occasional,Occasionally,Non-Vegetarian,Active,Hearing Impairment
+Person_57,2024/03/05,50,Male,Diabeties,"Frequent Urination, Blurred Vision, Increased Thirst",A-,Occasional,Never,Other,Sedentary,Hearing Impairment
+Person_58,2025/01/05,53,Female,Brain tumor,"Nausea, Vision Problems, Seizures",AB+,Occasional,Never,Vegetarian,Highly Active,No disability
+Person_59,2024/11/22,40,Male,Covid,"Fever, Shortness of Breath, Muscle Pain",O-,Occasional,Never,Other,Moderate,Visual Impairment
+Person_60,2024/08/20,42,Male,Dengue,"Pain, Fever, Severe Headache",O-,Occasional,Occasionally,Non-Vegetarian,Active,Mobility Impairment
+Person_61,2024/04/23,86,Female,Cold,"Cold, Runny Nose, Sore Throat",B+,Occasional,Frequently,Vegetarian,Highly Active,Hearing Impairment
+Person_62,2024/04/13,70,Male,Thalassemia,"Weakness, Pale Skin, Fatigue",B+,Occasional,Occasionally,Other,Active,"Visual Impairment, Mobility Impairment"
+Person_63,2024/05/07,66,Male,No Disease,,B-,Regular Smoker,Frequently,Vegan,Active,"Mental Health Condition, Hearing Impairment"
+Person_64,2024/07/09,77,Male,Thalassemia,"Pale Skin, Fatigue, Weakness",B+,Regular Smoker,Occasionally,Non-Vegetarian,Moderate,Hearing Impairment
+Person_65,2024/08/30,39,Female,Dengue,"Severe Headache, Fever, Pain",AB+,Non-Smoker,Occasionally,Vegan,Highly Active,"Visual Impairment, Hearing Impairment"
+Person_66,2024/05/09,32,Female,Brain tumor,"Nausea, Seizures, Vision Problems",AB-,Regular Smoker,Never,Other,Highly Active,Cognitive Disability
+Person_67,2024/09/16,17,Female,AIDS,"Fever, Weight Loss, Night Sweats",B+,Regular Smoker,Occasionally,Vegan,Highly Active,"Other, Cognitive Disability"
+Person_68,2025/01/26,76,Male,Covid,"Cough, Fever, Loss of Taste/Smell",AB+,Regular Smoker,Never,Vegetarian,Moderate,Visual Impairment
+Person_69,2025/03/24,83,Male,AIDS,"Night Sweats, Fever, Weight Loss",AB+,Non-Smoker,Never,Vegan,Sedentary,"Mental Health Condition, Mobility Impairment"
+Person_70,2024/12/14,36,Female,Heart attack,"Dizziness, Shortness of Breath, Chest Pain",AB+,Regular Smoker,Frequently,Other,Sedentary,No disability
+Person_71,2025/01/05,40,Female,Diabeties,"Blurred Vision, Frequent Urination, Increased Thirst",B+,Non-Smoker,Occasionally,Vegan,Highly Active,Mobility Impairment
+Person_72,2024/09/30,23,Male,Malaria,"Fever, Chills, Sweating",AB-,Regular Smoker,Never,Vegetarian,Highly Active,Cognitive Disability
+Person_73,2024/04/26,45,Female,Cancer,"Pain, Lumps, Night Sweats",AB-,Occasional,Never,Vegan,Sedentary,Other
+Person_74,2024/11/03,44,Male,Thalassemia,"Weakness, Fatigue, Pale Skin",A-,Regular Smoker,Frequently,Other,Sedentary,Visual Impairment
+Person_75,2024/03/09,46,Female,Heart attack,"Chest Pain, Dizziness, Shortness of Breath",A+,Non-Smoker,Never,Other,Active,Hearing Impairment
+Person_76,2024/03/03,16,Female,Cancer,"Lumps, Pain, Weight Loss",AB-,Non-Smoker,Frequently,Non-Vegetarian,Highly Active,"Other, Mobility Impairment"
+Person_77,2024/04/22,34,Female,Thalassemia,"Weakness, Fatigue, Pale Skin",A-,Occasional,Occasionally,Other,Sedentary,Mental Health Condition
+Person_78,2024/11/29,78,Female,Heart attack,"Dizziness, Chest Pain, Shortness of Breath",AB-,Occasional,Occasionally,Non-Vegetarian,Highly Active,Visual Impairment
+Person_79,2025/03/27,70,Female,Dengue,"Rash, Fever, Severe Headache",A+,Non-Smoker,Occasionally,Non-Vegetarian,Moderate,Cognitive Disability
+Person_80,2024/09/07,12,Male,Cancer,"Pain, Weight Loss, Lumps",AB+,Occasional,Never,Other,Sedentary,No disability
+Person_81,2024/04/04,40,Female,AIDS,"Weight Loss, Night Sweats, Fever",B-,Occasional,Frequently,Non-Vegetarian,Sedentary,"Cognitive Disability, Mental Health Condition"
+Person_82,2024/07/22,15,Female,Cold,"Runny Nose, Cold, Sore Throat",B-,Non-Smoker,Frequently,Vegetarian,Highly Active,Mental Health Condition
+Person_83,2024/07/12,55,Male,Migraine,"Nausea, Severe Headache, Light Sensitivity",B-,Regular Smoker,Never,Non-Vegetarian,Sedentary,Hearing Impairment
+Person_84,2024/06/19,10,Female,No Disease,,O-,Occasional,Never,Vegetarian,Moderate,Other
+Person_85,2024/11/15,60,Female,Thalassemia,"Pale Skin, Fatigue, Weakness",AB-,Regular Smoker,Occasionally,Other,Active,"Mental Health Condition, Other"
+Person_86,2024/10/11,65,Female,Heart attack,"Dizziness, Shortness of Breath, Chest Pain",A+,Non-Smoker,Occasionally,Other,Active,Visual Impairment
+Person_87,2024/06/11,48,Male,Dengue,"Fever, Rash, Pain",B+,Occasional,Occasionally,Non-Vegetarian,Sedentary,Cognitive Disability
+Person_88,2024/08/13,21,Male,Cold,"Cough, Cold, Runny Nose",AB+,Regular Smoker,Occasionally,Non-Vegetarian,Moderate,Other
+Person_89,2024/10/03,31,Female,No Disease,,A-,Occasional,Never,Vegan,Moderate,"Mobility Impairment, Cognitive Disability"
+Person_90,2024/05/22,73,Female,Fever,"Fever, Chills, Sweating",A-,Non-Smoker,Frequently,Vegan,Active,Mental Health Condition
+Person_91,2025/02/04,80,Male,Migraine,"Nausea, Severe Headache, Light Sensitivity",AB+,Occasional,Frequently,Other,Active,Cognitive Disability
+Person_92,2024/04/16,57,Male,AIDS,"Night Sweats, Weight Loss, Fever",A+,Regular Smoker,Frequently,Other,Moderate,"Cognitive Disability, Mobility Impairment"
+Person_93,2025/03/15,13,Male,Migraine,"Nausea, Light Sensitivity, Severe Headache",AB-,Occasional,Occasionally,Non-Vegetarian,Active,Visual Impairment
+Person_94,2024/07/28,32,Female,No Disease,,A+,Occasional,Never,Non-Vegetarian,Active,Cognitive Disability
+Person_95,2024/10/27,48,Male,Cancer,"Night Sweats, Weight Loss, Lumps",AB+,Non-Smoker,Never,Vegetarian,Highly Active,Mobility Impairment
+Person_96,2024/06/05,74,Female,Brain tumor,"Vision Problems, Nausea, Headache",AB+,Occasional,Occasionally,Vegetarian,Active,"Hearing Impairment, Other"
+Person_97,2024/05/11,48,Female,Malaria,"Fever, Headache, Sweating",B+,Non-Smoker,Never,Vegetarian,Sedentary,Mobility Impairment
+Person_98,2024/11/26,72,Male,Dengue,"Pain, Rash, Fever",A+,Occasional,Frequently,Non-Vegetarian,Sedentary,"Cognitive Disability, Mental Health Condition"
+Person_99,2024/11/12,27,Female,Cancer,"Lumps, Pain, Weight Loss",A+,Occasional,Never,Non-Vegetarian,Active,Mobility Impairment
+Person_100,2024/04/18,38,Male,Heart attack,"Dizziness, Shortness of Breath, Chest Pain",AB+,Regular Smoker,Frequently,Other,Highly Active,"Mental Health Condition, Other"
+Person_101,2024/04/22,34,Male,Thalassemia,"Weakness, Pale Skin, Fatigue",AB-,Non-Smoker,Occasionally,Vegetarian,Highly Active,No disability
+Person_102,2024/11/09,85,Male,Fever,"Body Aches, Chills, Fever",B+,Non-Smoker,Never,Vegetarian,Sedentary,"Cognitive Disability, Mobility Impairment"
+Person_103,2024/11/01,72,Male,Diabeties,"Blurred Vision, Frequent Urination, Increased Thirst",B-,Regular Smoker,Frequently,Vegan,Highly Active,Mental Health Condition
+Person_104,2024/05/04,15,Female,Diabeties,"Increased Thirst, Frequent Urination, Blurred Vision",O+,Non-Smoker,Never,Vegetarian,Sedentary,Cognitive Disability
+Person_105,2024/09/01,52,Male,Cancer,"Night Sweats, Pain, Lumps",A+,Non-Smoker,Frequently,Non-Vegetarian,Moderate,Mobility Impairment
+Person_106,2024/04/26,60,Male,Migraine,"Nausea, Light Sensitivity, Severe Headache",AB+,Occasional,Never,Other,Sedentary,Mental Health Condition
+Person_107,2024/03/13,66,Male,Fever,"Body Aches, Sweating, Fever",B+,Occasional,Frequently,Non-Vegetarian,Moderate,"Mobility Impairment, Mental Health Condition"
+Person_108,2024/10/05,76,Female,Migraine,"Nausea, Severe Headache, Light Sensitivity",B+,Occasional,Frequently,Non-Vegetarian,Highly Active,"Other, Cognitive Disability"
+Person_109,2024/05/21,44,Female,Covid,"Fatigue, Muscle Pain, Fever",A+,Occasional,Frequently,Non-Vegetarian,Moderate,Mental Health Condition
+Person_110,2024/10/22,13,Male,Covid,"Loss of Taste/Smell, Muscle Pain, Fatigue",O+,Occasional,Frequently,Other,Highly Active,Mobility Impairment
+Person_111,2025/03/13,83,Male,Covid,"Loss of Taste/Smell, Muscle Pain, Shortness of Breath",A+,Regular Smoker,Frequently,Other,Moderate,Visual Impairment
+Person_112,2024/11/14,31,Female,Covid,"Fatigue, Fever, Loss of Taste/Smell",A+,Occasional,Frequently,Non-Vegetarian,Active,Mobility Impairment
+Person_113,2024/05/20,49,Male,Heart attack,"Chest Pain, Dizziness, Shortness of Breath",A+,Non-Smoker,Frequently,Non-Vegetarian,Moderate,"Other, Cognitive Disability"
+Person_114,2024/05/10,12,Female,Malaria,"Headache, Chills, Sweating",B+,Occasional,Never,Other,Moderate,Mobility Impairment
+Person_115,2024/05/23,75,Male,Malaria,"Sweating, Fever, Headache",AB-,Occasional,Never,Vegetarian,Sedentary,Mobility Impairment
+Person_116,2024/03/09,24,Male,Brain tumor,"Headache, Vision Problems, Nausea",O+,Non-Smoker,Frequently,Other,Highly Active,Other
+Person_117,2024/11/03,42,Male,Diabeties,"Blurred Vision, Increased Thirst, Frequent Urination",AB-,Occasional,Never,Vegan,Active,"Other, Mental Health Condition"
+Person_118,2024/08/01,38,Female,No Disease,,B-,Regular Smoker,Never,Vegetarian,Active,Mobility Impairment
+Person_119,2025/03/23,11,Female,Fever,"Sweating, Body Aches, Fever",B+,Occasional,Occasionally,Non-Vegetarian,Active,"Cognitive Disability, Other"
+Person_120,2024/05/14,78,Female,Dengue,"Fever, Severe Headache, Pain",B+,Occasional,Frequently,Other,Moderate,Mental Health Condition
+Person_121,2024/03/26,85,Female,Brain tumor,"Nausea, Headache, Seizures",O+,Regular Smoker,Frequently,Vegan,Highly Active,Other
+Person_122,2024/03/09,30,Female,No Disease,,O+,Regular Smoker,Occasionally,Other,Active,Other
+Person_123,2024/07/16,65,Female,Cold,"Sneezing, Cough, Runny Nose",O+,Occasional,Occasionally,Vegetarian,Moderate,Mental Health Condition
+Person_124,2024/06/04,79,Female,Covid,"Fever, Shortness of Breath, Fatigue",AB+,Regular Smoker,Frequently,Vegetarian,Moderate,"Mental Health Condition, Visual Impairment"
+Person_125,2024/03/16,14,Female,Cold,"Cold, Cough, Runny Nose",AB+,Non-Smoker,Occasionally,Non-Vegetarian,Moderate,No disability
+Person_126,2025/03/08,13,Female,Dengue,"Rash, Fever, Pain",O+,Non-Smoker,Never,Non-Vegetarian,Sedentary,"Cognitive Disability, Mental Health Condition"
+Person_127,2024/08/01,47,Female,Brain tumor,"Headache, Nausea, Vision Problems",O-,Non-Smoker,Occasionally,Other,Highly Active,Cognitive Disability
+Person_128,2024/04/18,67,Male,Heart attack,"Shortness of Breath, Chest Pain, Dizziness",A-,Occasional,Never,Vegetarian,Sedentary,"Other, Mental Health Condition"
+Person_129,2024/06/27,67,Female,Malaria,"Chills, Headache, Sweating",O-,Occasional,Never,Vegetarian,Moderate,No disability
+Person_130,2024/09/19,24,Male,Dengue,"Pain, Severe Headache, Fever",O+,Regular Smoker,Occasionally,Non-Vegetarian,Highly Active,"Mobility Impairment, Cognitive Disability"
+Person_131,2024/05/31,57,Male,Malaria,"Chills, Fever, Headache",A+,Regular Smoker,Occasionally,Vegan,Highly Active,Other
+Person_132,2024/12/01,56,Female,Diabeties,"Frequent Urination, Increased Thirst, Blurred Vision",AB+,Occasional,Occasionally,Vegetarian,Active,Cognitive Disability
+Person_133,2025/02/24,81,Male,Heart attack,"Dizziness, Shortness of Breath, Chest Pain",A-,Non-Smoker,Never,Vegan,Active,Cognitive Disability
+Person_134,2024/12/26,40,Male,Malaria,"Sweating, Chills, Fever",A+,Regular Smoker,Never,Non-Vegetarian,Moderate,Mobility Impairment
+Person_135,2024/03/26,19,Male,Covid,"Fatigue, Cough, Muscle Pain",O-,Non-Smoker,Never,Other,Active,Mobility Impairment
+Person_136,2025/02/01,81,Female,Heart attack,"Dizziness, Chest Pain, Shortness of Breath",A-,Occasional,Never,Other,Sedentary,"Visual Impairment, Hearing Impairment"
+Person_137,2024/06/11,84,Male,Migraine,"Nausea, Light Sensitivity, Severe Headache",O+,Regular Smoker,Frequently,Vegan,Active,Other
+Person_138,2024/03/19,76,Female,Dengue,"Severe Headache, Pain, Rash",A-,Occasional,Occasionally,Non-Vegetarian,Active,Cognitive Disability
+Person_139,2024/09/24,22,Female,Cold,"Sore Throat, Sneezing, Cough",O-,Occasional,Never,Non-Vegetarian,Sedentary,Visual Impairment
+Person_140,2024/04/24,12,Female,Brain tumor,"Headache, Seizures, Vision Problems",O+,Non-Smoker,Never,Vegetarian,Highly Active,Cognitive Disability
+Person_141,2024/10/23,46,Male,Thalassemia,"Pale Skin, Weakness, Fatigue",O-,Occasional,Occasionally,Other,Sedentary,Visual Impairment
+Person_142,2024/07/26,67,Male,No Disease,,B+,Occasional,Never,Vegetarian,Moderate,Mobility Impairment
+Person_143,2025/02/04,23,Male,Fever,"Fever, Sweating, Chills",AB+,Occasional,Never,Non-Vegetarian,Active,Mental Health Condition
+Person_144,2025/03/12,30,Female,Heart attack,"Shortness of Breath, Dizziness, Chest Pain",B+,Regular Smoker,Frequently,Non-Vegetarian,Moderate,Hearing Impairment
+Person_145,2025/01/30,60,Female,Thalassemia,"Pale Skin, Weakness, Fatigue",A-,Non-Smoker,Frequently,Vegan,Moderate,No disability
+Person_146,2025/02/07,67,Male,Dengue,"Rash, Fever, Severe Headache",O+,Non-Smoker,Frequently,Vegetarian,Moderate,"Visual Impairment, Other"
+Person_147,2024/09/04,78,Male,Covid,"Fever, Loss of Taste/Smell, Shortness of Breath",B-,Regular Smoker,Occasionally,Vegan,Moderate,No disability
+Person_148,2024/07/24,12,Male,Heart attack,"Shortness of Breath, Dizziness, Chest Pain",O+,Regular Smoker,Occasionally,Vegan,Sedentary,Visual Impairment
+Person_149,2025/01/14,57,Male,Cancer,"Weight Loss, Night Sweats, Lumps",AB+,Regular Smoker,Never,Non-Vegetarian,Sedentary,Visual Impairment
+Person_150,2025/01/20,35,Male,Fever,"Sweating, Chills, Fever",B+,Non-Smoker,Occasionally,Other,Sedentary,"Mobility Impairment, Visual Impairment"
+Person_151,2024/04/15,30,Female,Fever,"Chills, Sweating, Fever",B+,Non-Smoker,Occasionally,Vegetarian,Highly Active,"Mental Health Condition, Other"
+Person_152,2024/11/15,29,Male,Thalassemia,"Pale Skin, Fatigue, Weakness",B+,Non-Smoker,Occasionally,Non-Vegetarian,Highly Active,"Visual Impairment, Hearing Impairment"
+Person_153,2024/08/25,78,Male,Brain tumor,"Vision Problems, Headache, Seizures",AB+,Non-Smoker,Never,Vegan,Moderate,"Mental Health Condition, Visual Impairment"
+Person_154,2025/01/16,85,Female,Thalassemia,"Weakness, Pale Skin, Fatigue",A-,Regular Smoker,Frequently,Other,Moderate,Hearing Impairment
+Person_155,2024/10/04,87,Female,Brain tumor,"Seizures, Nausea, Headache",A-,Non-Smoker,Frequently,Non-Vegetarian,Moderate,"Mental Health Condition, Other"
+Person_156,2025/02/02,30,Female,Malaria,"Fever, Chills, Headache",AB+,Non-Smoker,Never,Other,Highly Active,Cognitive Disability
+Person_157,2024/06/12,85,Female,Thalassemia,"Fatigue, Pale Skin, Weakness",O+,Occasional,Never,Other,Sedentary,"Visual Impairment, Mobility Impairment"
+Person_158,2025/01/08,21,Male,AIDS,"Night Sweats, Weight Loss, Fever",B-,Occasional,Frequently,Other,Moderate,Hearing Impairment
+Person_159,2024/07/03,46,Female,Covid,"Fever, Fatigue, Loss of Taste/Smell",O+,Occasional,Never,Vegetarian,Sedentary,Cognitive Disability
+Person_160,2024/08/14,37,Female,Migraine,"Severe Headache, Light Sensitivity, Nausea",B+,Regular Smoker,Occasionally,Other,Moderate,Mental Health Condition
+Person_161,2025/03/27,49,Male,Brain tumor,"Vision Problems, Nausea, Headache",A+,Occasional,Frequently,Vegan,Moderate,Hearing Impairment
+Person_162,2024/04/04,39,Male,Malaria,"Fever, Chills, Headache",AB-,Occasional,Frequently,Vegan,Sedentary,Mobility Impairment
+Person_163,2024/11/28,51,Male,Cold,"Cold, Cough, Runny Nose",O-,Non-Smoker,Occasionally,Vegan,Highly Active,Cognitive Disability
+Person_164,2024/04/09,78,Female,Heart attack,"Shortness of Breath, Chest Pain, Dizziness",AB-,Occasional,Frequently,Other,Highly Active,Other
+Person_165,2024/12/15,61,Female,Cancer,"Lumps, Weight Loss, Pain",A-,Regular Smoker,Occasionally,Vegetarian,Moderate,No disability
+Person_166,2025/03/02,46,Male,Thalassemia,"Fatigue, Pale Skin, Weakness",A-,Occasional,Frequently,Vegetarian,Highly Active,Cognitive Disability
+Person_167,2024/05/14,82,Male,No Disease,,A+,Regular Smoker,Occasionally,Other,Sedentary,Mental Health Condition
+Person_168,2025/01/08,58,Female,Dengue,"Severe Headache, Rash, Fever",B+,Occasional,Frequently,Other,Sedentary,Mental Health Condition
+Person_169,2024/12/12,43,Male,Dengue,"Rash, Fever, Pain",A-,Non-Smoker,Frequently,Non-Vegetarian,Sedentary,Visual Impairment
+Person_170,2024/11/24,18,Female,Diabeties,"Blurred Vision, Increased Thirst, Frequent Urination",O-,Regular Smoker,Occasionally,Vegan,Active,Other
+Person_171,2024/11/03,42,Male,Diabeties,"Frequent Urination, Increased Thirst, Blurred Vision",A-,Regular Smoker,Frequently,Other,Moderate,Visual Impairment
+Person_172,2024/05/08,32,Female,Dengue,"Pain, Fever, Severe Headache",AB+,Occasional,Never,Other,Highly Active,Cognitive Disability
+Person_173,2024/07/18,33,Male,No Disease,,O+,Regular Smoker,Frequently,Vegetarian,Sedentary,No disability
+Person_174,2024/11/22,47,Male,Dengue,"Fever, Severe Headache, Rash",AB-,Non-Smoker,Never,Non-Vegetarian,Moderate,Other
+Person_175,2024/10/12,11,Female,Cancer,"Weight Loss, Lumps, Pain",A+,Non-Smoker,Occasionally,Other,Active,Visual Impairment
+Person_176,2025/01/27,14,Female,Covid,"Loss of Taste/Smell, Fatigue, Fever",O-,Non-Smoker,Never,Other,Sedentary,Cognitive Disability
+Person_177,2024/05/19,17,Male,Heart attack,"Chest Pain, Dizziness, Shortness of Breath",B-,Non-Smoker,Never,Vegan,Moderate,Other
+Person_178,2024/03/05,14,Male,Dengue,"Fever, Pain, Severe Headache",O-,Regular Smoker,Never,Vegetarian,Moderate,Other
+Person_179,2024/12/01,66,Male,Thalassemia,"Pale Skin, Fatigue, Weakness",B+,Non-Smoker,Occasionally,Non-Vegetarian,Highly Active,Visual Impairment
+Person_180,2025/01/08,22,Female,AIDS,"Weight Loss, Fever, Night Sweats",O+,Occasional,Occasionally,Non-Vegetarian,Highly Active,"Hearing Impairment, Cognitive Disability"
+Person_181,2024/07/07,31,Female,Thalassemia,"Pale Skin, Fatigue, Weakness",AB-,Non-Smoker,Occasionally,Non-Vegetarian,Active,Cognitive Disability
+Person_182,2024/12/12,72,Male,AIDS,"Fever, Weight Loss, Night Sweats",A-,Non-Smoker,Occasionally,Other,Active,"Hearing Impairment, Other"
+Person_183,2024/06/03,18,Female,Malaria,"Chills, Sweating, Fever",AB-,Occasional,Occasionally,Vegan,Active,Visual Impairment
+Person_184,2025/02/21,82,Male,Heart attack,"Shortness of Breath, Chest Pain, Dizziness",O-,Regular Smoker,Frequently,Vegetarian,Sedentary,Mental Health Condition
+Person_185,2024/08/16,76,Female,Cold,"Sore Throat, Cold, Sneezing",A-,Non-Smoker,Occasionally,Non-Vegetarian,Moderate,Cognitive Disability
+Person_186,2024/09/03,79,Male,Cold,"Sore Throat, Cough, Cold",O-,Non-Smoker,Never,Vegetarian,Active,Mental Health Condition
+Person_187,2025/01/17,70,Female,Migraine,"Severe Headache, Nausea, Light Sensitivity",AB-,Regular Smoker,Never,Non-Vegetarian,Active,No disability
+Person_188,2024/07/28,76,Male,Cancer,"Lumps, Pain, Night Sweats",B+,Occasional,Occasionally,Vegan,Moderate,Cognitive Disability
+Person_189,2024/05/12,34,Female,Covid,"Loss of Taste/Smell, Muscle Pain, Fatigue",AB-,Regular Smoker,Frequently,Vegetarian,Moderate,Mental Health Condition
+Person_190,2024/04/20,36,Male,AIDS,"Weight Loss, Fever, Night Sweats",AB+,Occasional,Never,Vegan,Highly Active,Mobility Impairment
+Person_191,2024/08/05,80,Female,Migraine,"Severe Headache, Nausea, Light Sensitivity",A-,Non-Smoker,Never,Vegan,Moderate,Mental Health Condition
+Person_192,2024/09/03,70,Female,Migraine,"Nausea, Severe Headache, Light Sensitivity",O-,Regular Smoker,Frequently,Vegetarian,Sedentary,Hearing Impairment
+Person_193,2024/05/13,16,Female,Dengue,"Severe Headache, Pain, Fever",AB-,Occasional,Never,Vegetarian,Active,"Cognitive Disability, Mental Health Condition"
+Person_194,2024/08/24,67,Female,No Disease,,A-,Non-Smoker,Occasionally,Non-Vegetarian,Active,Hearing Impairment
+Person_195,2025/01/06,86,Male,Dengue,"Fever, Pain, Severe Headache",A+,Non-Smoker,Never,Other,Active,Visual Impairment
+Person_196,2024/06/21,79,Female,Malaria,"Sweating, Headache, Chills",O-,Non-Smoker,Never,Vegan,Sedentary,"Cognitive Disability, Hearing Impairment"
+Person_197,2024/09/17,88,Male,Heart attack,"Shortness of Breath, Dizziness, Chest Pain",O+,Regular Smoker,Never,Vegan,Moderate,Visual Impairment
+Person_198,2024/03/18,14,Male,Covid,"Fever, Shortness of Breath, Muscle Pain",B-,Non-Smoker,Occasionally,Other,Active,Mobility Impairment
+Person_199,2024/08/21,10,Male,Dengue,"Fever, Rash, Severe Headache",AB-,Regular Smoker,Frequently,Other,Sedentary,Mental Health Condition
+Person_200,2025/01/11,63,Male,Heart attack,"Dizziness, Shortness of Breath, Chest Pain",A-,Non-Smoker,Occasionally,Non-Vegetarian,Active,"Cognitive Disability, Visual Impairment"
+Person_201,2024/07/14,21,Female,Heart attack,"Chest Pain, Dizziness, Shortness of Breath",B+,Non-Smoker,Never,Vegan,Active,Hearing Impairment
+Person_202,2025/01/16,26,Male,Migraine,"Nausea, Severe Headache, Light Sensitivity",B+,Non-Smoker,Occasionally,Non-Vegetarian,Active,Cognitive Disability
+Person_203,2024/10/23,20,Male,Cold,"Cough, Sneezing, Sore Throat",O-,Occasional,Occasionally,Vegan,Moderate,Mental Health Condition
+Person_204,2024/10/02,45,Male,Migraine,"Severe Headache, Light Sensitivity, Nausea",A-,Non-Smoker,Occasionally,Non-Vegetarian,Active,Hearing Impairment
+Person_205,2024/08/22,52,Female,Fever,"Fever, Body Aches, Chills",A-,Regular Smoker,Occasionally,Other,Moderate,Mental Health Condition
+Person_206,2025/01/20,62,Female,Malaria,"Fever, Sweating, Headache",B-,Occasional,Never,Vegetarian,Moderate,"Visual Impairment, Mental Health Condition"
+Person_207,2025/01/10,85,Female,Migraine,"Severe Headache, Nausea, Light Sensitivity",A+,Occasional,Occasionally,Non-Vegetarian,Moderate,Mental Health Condition
+Person_208,2024/03/10,33,Male,AIDS,"Weight Loss, Fever, Night Sweats",AB-,Occasional,Never,Other,Active,Hearing Impairment
+Person_209,2025/01/21,55,Female,AIDS,"Weight Loss, Night Sweats, Fever",O-,Occasional,Never,Vegan,Highly Active,"Cognitive Disability, Mobility Impairment"
+Person_210,2024/06/05,22,Female,Covid,"Fever, Cough, Muscle Pain",AB+,Occasional,Frequently,Non-Vegetarian,Highly Active,Cognitive Disability
+Person_211,2025/02/15,29,Male,Cancer,"Pain, Weight Loss, Night Sweats",B+,Regular Smoker,Occasionally,Other,Moderate,"Other, Mobility Impairment"
+Person_212,2024/03/30,28,Male,Diabeties,"Blurred Vision, Frequent Urination, Increased Thirst",O-,Regular Smoker,Frequently,Other,Moderate,Visual Impairment
+Person_213,2024/05/25,26,Female,Heart attack,"Chest Pain, Shortness of Breath, Dizziness",AB-,Non-Smoker,Frequently,Non-Vegetarian,Highly Active,"Hearing Impairment, Cognitive Disability"
+Person_214,2024/05/04,83,Male,Heart attack,"Dizziness, Chest Pain, Shortness of Breath",O+,Non-Smoker,Occasionally,Vegan,Highly Active,"Mental Health Condition, Mobility Impairment"
+Person_215,2024/06/03,59,Female,AIDS,"Fever, Night Sweats, Weight Loss",AB-,Occasional,Occasionally,Non-Vegetarian,Moderate,"Other, Mental Health Condition"
+Person_216,2024/12/06,24,Female,Diabeties,"Blurred Vision, Increased Thirst, Frequent Urination",B-,Occasional,Occasionally,Other,Highly Active,Other
+Person_217,2024/08/13,33,Male,Diabeties,"Frequent Urination, Blurred Vision, Increased Thirst",A+,Regular Smoker,Never,Other,Moderate,Hearing Impairment
+Person_218,2025/01/09,69,Female,Thalassemia,"Pale Skin, Weakness, Fatigue",AB-,Occasional,Never,Vegan,Highly Active,"Cognitive Disability, Hearing Impairment"
+Person_219,2024/12/14,67,Female,No Disease,,AB-,Regular Smoker,Never,Non-Vegetarian,Moderate,Mental Health Condition
+Person_220,2024/10/01,54,Female,Covid,"Muscle Pain, Fatigue, Cough",O+,Occasional,Frequently,Non-Vegetarian,Highly Active,Mobility Impairment
+Person_221,2024/11/11,43,Male,Diabeties,"Increased Thirst, Blurred Vision, Frequent Urination",B+,Occasional,Never,Vegetarian,Sedentary,"Visual Impairment, Mobility Impairment"
+Person_222,2024/10/24,61,Female,Heart attack,"Dizziness, Chest Pain, Shortness of Breath",A-,Regular Smoker,Never,Other,Sedentary,No disability
+Person_223,2025/03/04,90,Male,Covid,"Shortness of Breath, Muscle Pain, Fatigue",AB-,Occasional,Frequently,Non-Vegetarian,Highly Active,Visual Impairment
+Person_224,2024/07/28,55,Female,Heart attack,"Dizziness, Shortness of Breath, Chest Pain",O+,Non-Smoker,Frequently,Non-Vegetarian,Moderate,Mobility Impairment
+Person_225,2024/07/06,16,Female,Brain tumor,"Vision Problems, Seizures, Headache",O+,Occasional,Never,Other,Highly Active,No disability
+Person_226,2024/03/19,86,Male,Cold,"Runny Nose, Cough, Sneezing",O-,Occasional,Frequently,Other,Moderate,"Hearing Impairment, Mobility Impairment"
+Person_227,2025/02/24,47,Male,Cancer,"Lumps, Pain, Weight Loss",AB-,Regular Smoker,Never,Other,Moderate,No disability
+Person_228,2024/03/17,12,Male,Migraine,"Nausea, Severe Headache, Light Sensitivity",A+,Regular Smoker,Never,Other,Sedentary,Hearing Impairment
+Person_229,2024/09/29,73,Female,Thalassemia,"Pale Skin, Weakness, Fatigue",A+,Occasional,Never,Vegetarian,Moderate,"Cognitive Disability, Other"
+Person_230,2024/10/24,69,Male,Brain tumor,"Nausea, Seizures, Headache",O+,Occasional,Never,Vegetarian,Highly Active,"Mental Health Condition, Cognitive Disability"
+Person_231,2024/09/20,21,Male,Brain tumor,"Nausea, Vision Problems, Seizures",A-,Non-Smoker,Occasionally,Vegetarian,Sedentary,Visual Impairment
+Person_232,2024/07/28,42,Male,No Disease,,AB-,Regular Smoker,Frequently,Non-Vegetarian,Sedentary,"Mental Health Condition, Hearing Impairment"
+Person_233,2024/05/15,52,Female,Covid,"Loss of Taste/Smell, Cough, Shortness of Breath",O+,Occasional,Never,Vegetarian,Active,"Visual Impairment, Other"
+Person_234,2024/10/02,75,Male,No Disease,,A-,Regular Smoker,Frequently,Vegetarian,Highly Active,Other
+Person_235,2024/08/29,76,Male,No Disease,,A-,Non-Smoker,Never,Other,Moderate,"Mental Health Condition, Other"
+Person_236,2024/08/20,12,Male,No Disease,,B+,Occasional,Occasionally,Vegan,Moderate,"Mental Health Condition, Visual Impairment"
+Person_237,2024/07/27,28,Male,Malaria,"Fever, Chills, Headache",A+,Regular Smoker,Occasionally,Vegan,Active,"Other, Hearing Impairment"
+Person_238,2024/11/23,51,Female,Dengue,"Rash, Pain, Severe Headache",B+,Regular Smoker,Never,Vegan,Sedentary,Mobility Impairment
+Person_239,2024/06/12,85,Male,Malaria,"Fever, Sweating, Headache",A-,Regular Smoker,Frequently,Non-Vegetarian,Highly Active,"Hearing Impairment, Mental Health Condition"
+Person_240,2024/05/01,82,Male,Diabeties,"Increased Thirst, Blurred Vision, Frequent Urination",AB-,Regular Smoker,Never,Non-Vegetarian,Active,No disability
+Person_241,2024/07/24,87,Female,Diabeties,"Frequent Urination, Blurred Vision, Increased Thirst",A-,Non-Smoker,Occasionally,Vegetarian,Sedentary,Hearing Impairment
+Person_242,2024/04/01,33,Male,Cold,"Sneezing, Sore Throat, Runny Nose",O-,Regular Smoker,Occasionally,Other,Active,"Hearing Impairment, Mental Health Condition"
+Person_243,2025/03/10,24,Male,No Disease,,O-,Non-Smoker,Frequently,Other,Moderate,"Cognitive Disability, Other"
+Person_244,2024/04/18,26,Female,Cold,"Runny Nose, Cough, Sore Throat",B-,Non-Smoker,Frequently,Non-Vegetarian,Sedentary,Visual Impairment
+Person_245,2024/04/09,75,Female,Covid,"Shortness of Breath, Loss of Taste/Smell, Cough",O+,Occasional,Never,Non-Vegetarian,Highly Active,Visual Impairment
+Person_246,2025/03/25,71,Female,Dengue,"Rash, Severe Headache, Fever",B-,Regular Smoker,Occasionally,Vegetarian,Sedentary,"Mental Health Condition, Cognitive Disability"
+Person_247,2024/10/13,29,Male,Cancer,"Weight Loss, Lumps, Night Sweats",B+,Non-Smoker,Occasionally,Non-Vegetarian,Highly Active,Mobility Impairment
+Person_248,2024/08/16,71,Male,Malaria,"Sweating, Chills, Headache",B-,Non-Smoker,Frequently,Vegan,Active,"Mental Health Condition, Mobility Impairment"
+Person_249,2024/12/21,38,Female,Diabeties,"Increased Thirst, Frequent Urination, Blurred Vision",O+,Non-Smoker,Never,Vegan,Moderate,Hearing Impairment
+Person_250,2024/06/30,10,Male,Diabeties,"Blurred Vision, Frequent Urination, Increased Thirst",O-,Occasional,Never,Vegan,Moderate,Visual Impairment
+User,2025/04/07,21,Female,Cold,Fever,B+,Non-Smoker,Never,Vegetarian,Sedentary,No disability
